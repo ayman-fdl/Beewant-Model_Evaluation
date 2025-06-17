@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qwen3 Model Evaluation Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        h1 {
+            margin-bottom: 30px;
+        }
+        h2 {
+            margin: 40px 0 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: white;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #2c3e50;
+            color: white;
+            position: sticky;
+            top: 0;
+        }
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        tr:hover {
+            background-color: #e8f4f8;
+        }
+        .score {
+            font-weight: bold;
+            color: #27ae60;
+        }
+        .question {
+            font-style: italic;
+            color: #666;
+        }
+        .comment {
+            font-size: 0.9em;
+            color: #666;
+        }
+        .sources {
+            font-size: 0.85em;
+            color: #666;
+        }
+        .summary {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        .summary h2 {
+            margin-top: 0;
+            color: white;
+        }
+        .summary-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        .summary-stat {
+            background-color: rgba(255,255,255,0.1);
+            padding: 10px;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .summary-stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #3498db;
+        }
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            display: none;
+            z-index: 1000;
+        }
+        .back-to-top:hover {
+            background-color: #2980b9;
+        }
+        .loading {
+            text-align: center;
+            padding: 20px;
+            font-size: 1.2em;
+            color: #666;
+        }
+        .error {
+            color: #e74c3c;
+            text-align: center;
+            padding: 20px;
+            display: none;
+        }
+        .tabs {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .tab {
+            padding: 10px 20px;
+            margin: 0 5px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .tab.active {
+            background-color: #3498db;
+            color: white;
+            border-color: #3498db;
+        }
+        .table-container {
+            display: none;
+        }
+        .table-container.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Qwen3 Model Evaluation Results</h1>
+        
+        <div class="loading">Loading evaluation data...</div>
+        <div class="error">Error loading evaluation data. Please try again later.</div>
+
+        <div class="summary">
+            <h2>Overall Performance Summary</h2>
+            <div class="summary-stats">
+                <div class="summary-stat">
+                    <div class="summary-stat-value" id="avg-relevance">-</div>
+                    <div>Average Relevance</div>
+                </div>
+                <div class="summary-stat">
+                    <div class="summary-stat-value" id="avg-correctness">-</div>
+                    <div>Average Correctness</div>
+                </div>
+                <div class="summary-stat">
+                    <div class="summary-stat-value" id="avg-completeness">-</div>
+                    <div>Average Completeness</div>
+                </div>
+                <div class="summary-stat">
+                    <div class="summary-stat-value" id="avg-clarity">-</div>
+                    <div>Average Clarity</div>
+                </div>
+                <div class="summary-stat">
+                    <div class="summary-stat-value" id="avg-depth">-</div>
+                    <div>Average Depth</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" data-tab="sources">Sources Table</div>
+            <div class="tab" data-tab="responses">Responses Table</div>
+        </div>
+
+        <div id="sources-table" class="table-container active">
+            <h2>Sources Evaluation</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Subject</th>
+                        <th>Source URL</th>
+                        <th>Relevance</th>
+                        <th>Credibility</th>
+                        <th>Freshness</th>
+                    </tr>
+                </thead>
+                <tbody id="sources-body">
+                    <!-- Sources data will be inserted here -->
+                </tbody>
+            </table>
+        </div>
+
+        <div id="responses-table" class="table-container">
+            <h2>Model Responses Evaluation</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Subject</th>
+                        <th>Question</th>
+                        <th>Relevance</th>
+                        <th>Correctness</th>
+                        <th>Completeness</th>
+                        <th>Clarity</th>
+                        <th>Depth</th>
+                        <th>Evaluation Comment</th>
+                    </tr>
+                </thead>
+                <tbody id="responses-body">
+                    <!-- Responses data will be inserted here -->
+                </tbody>
+            </table>
+        </div>
+
+        <div class="back-to-top" id="back-to-top">Back to Top</div>
+    </div>
+
+    <script>
+        // Function to calculate averages
+        function calculateAverages(evaluations) {
+            const totals = {
+                relevance: 0,
+                correctness: 0,
+                completeness: 0,
+                clarity: 0,
+                depth: 0
+            };
+            let count = 0;
+
+            evaluations.forEach(eval => {
+                if (eval.response && eval.response.length > 0) {
+                    eval.response.forEach(resp => {
+                        totals.relevance += resp.Relevance || 0;
+                        totals.correctness += resp.Correctness || 0;
+                        totals.completeness += resp.Completeness || 0;
+                        totals.clarity += resp.Clarity || 0;
+                        totals.depth += resp.Depth || 0;
+                        count++;
+                    });
+                }
+            });
+
+            return {
+                relevance: (totals.relevance / count).toFixed(1),
+                correctness: (totals.correctness / count).toFixed(1),
+                completeness: (totals.completeness / count).toFixed(1),
+                clarity: (totals.clarity / count).toFixed(1),
+                depth: (totals.depth / count).toFixed(1)
+            };
+        }
+
+        // Function to update the summary statistics
+        function updateSummary(averages) {
+            document.getElementById('avg-relevance').textContent = `${averages.relevance}/5`;
+            document.getElementById('avg-correctness').textContent = `${averages.correctness}/5`;
+            document.getElementById('avg-completeness').textContent = `${averages.completeness}/5`;
+            document.getElementById('avg-clarity').textContent = `${averages.clarity}/5`;
+            document.getElementById('avg-depth').textContent = `${averages.depth}/5`;
+        }
+
+        // Function to populate sources table
+        function populateSourcesTable(evaluations) {
+            const sourcesBody = document.getElementById('sources-body');
+            sourcesBody.innerHTML = '';
+
+            evaluations.forEach(eval => {
+                const subject = eval.subject || 'Unknown Subject';
+                eval.sources.forEach(source => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${subject}</td>
+                        <td class="sources">${source.url}</td>
+                        <td class="score">${source.relevance}/5</td>
+                        <td class="score">${source.credibility}/5</td>
+                        <td class="score">${source.freshness}/5</td>
+                    `;
+                    sourcesBody.appendChild(row);
+                });
+            });
+        }
+
+        // Function to populate responses table
+        function populateResponsesTable(evaluations) {
+            const responsesBody = document.getElementById('responses-body');
+            responsesBody.innerHTML = '';
+
+            evaluations.forEach(eval => {
+                const subject = eval.subject || 'Unknown Subject';
+                eval.response.forEach(resp => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${subject}</td>
+                        <td class="question">${eval.question || 'No question provided'}</td>
+                        <td class="score">${resp.Relevance}/5</td>
+                        <td class="score">${resp.Correctness}/5</td>
+                        <td class="score">${resp.Completeness}/5</td>
+                        <td class="score">${resp.Clarity}/5</td>
+                        <td class="score">${resp.Depth}/5</td>
+                        <td class="comment">${resp.Comment}</td>
+                    `;
+                    responsesBody.appendChild(row);
+                });
+            });
+        }
+
+        // Function to load all evaluation files
+        async function loadEvaluations() {
+            try {
+                // First, get the list of JSON files
+                const response = await fetch('http://localhost:8000/evaluation_web');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const text = await response.text();
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(text, 'text/html');
+                const fileLinks = Array.from(doc.querySelectorAll('a'))
+                    .filter(a => a.href.endsWith('.json'))
+                    .map(a => a.href.split('/').pop());
+
+                const evaluations = [];
+                for (const file of fileLinks) {
+                    try {
+                        const response = await fetch(`http://localhost:8000/evaluation_web/${file}`);
+                        if (!response.ok) {
+                            console.error(`Failed to load ${file}: ${response.statusText}`);
+                            continue;
+                        }
+                        const data = await response.json();
+                        data.subject = file.replace('Evaluation_', '').replace('.json', '');
+                        evaluations.push(data);
+                    } catch (error) {
+                        console.error(`Error loading ${file}:`, error);
+                    }
+                }
+
+                if (evaluations.length === 0) {
+                    throw new Error('No evaluation data could be loaded');
+                }
+
+                // Calculate and update averages
+                const averages = calculateAverages(evaluations);
+                updateSummary(averages);
+
+                // Populate tables
+                populateSourcesTable(evaluations);
+                populateResponsesTable(evaluations);
+
+                // Hide loading message
+                document.querySelector('.loading').style.display = 'none';
+
+                // Set up tab switching
+                const tabs = document.querySelectorAll('.tab');
+                tabs.forEach(tab => {
+                    tab.addEventListener('click', () => {
+                        // Remove active class from all tabs and containers
+                        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                        document.querySelectorAll('.table-container').forEach(c => c.classList.remove('active'));
+                        
+                        // Add active class to clicked tab and corresponding container
+                        tab.classList.add('active');
+                        document.getElementById(`${tab.dataset.tab}-table`).classList.add('active');
+                    });
+                });
+
+                // Show back to top button when scrolling
+                const backToTop = document.getElementById('back-to-top');
+                window.addEventListener('scroll', () => {
+                    if (window.scrollY > 300) {
+                        backToTop.style.display = 'block';
+                    } else {
+                        backToTop.style.display = 'none';
+                    }
+                });
+
+                backToTop.addEventListener('click', () => {
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                });
+
+            } catch (error) {
+                console.error('Error loading evaluations:', error);
+                document.querySelector('.loading').style.display = 'none';
+                document.querySelector('.error').style.display = 'block';
+                document.querySelector('.error').textContent = `Error loading evaluation data: ${error.message}`;
+            }
+        }
+
+        // Load evaluations when the page loads
+        window.addEventListener('load', loadEvaluations);
+    </script>
+</body>
+</html> 

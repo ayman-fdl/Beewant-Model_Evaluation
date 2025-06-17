@@ -1,0 +1,186 @@
+{
+  "sources": [
+    {
+      "url": "https://worldpopulationreview.com/country-rankings/most-visited-countries",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.datapandas.org/ranking/most-visited-countries",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.unwto.org/un-tourism-world-tourism-barometer-data",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://themefic.com/tourfic/worlds-most-visited-countries/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 4
+    },
+    {
+      "url": "https://simplebeen.com/most-visited-country-in-the-world/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 4
+    },
+    {
+      "url": "https://iconpolls.com/public/blogs/top-10-most-visited-countries-in-the-world-in-2025",
+      "relevance": 5,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://sustainability-academy.org/leading-sustainable-tourism-2025/",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.planetideal.com/the-future-of-sustainable-tourism-trends-to-watch-in-2025/",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://franetic.com/eco-friendly-travel-and-tourism-2025/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://straitsresearch.com/blog/key-trends-shaping-sustainable-tourism",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://travelpug.net/20-inspiring-sustainable-travel-destinations-for-2025/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://worldhistoryjournal.com/2025/02/18/sustainable-tourism-2025/",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://travel.usnews.com/rankings/worlds-best-vacations/",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.forbes.com/sites/laurabegleybloom/2025/02/27/the-100-best-cities-in-the-world-to-visit-in-2025-according-to-a-new-report/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://tripadvisor.mediaroom.com/2025-01-09-Tripadvisor-Reveals-2025s-Must-Visit-Destinations-Top-Picks-From-Travelers-Around-the-World",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.independent.co.uk/travel/news-and-advice/lonely-planet-best-destinations-2025-b2633986.html",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/us-news-reveals-the-2025-best-vacations-rankings-302332785.html",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://hospitalitynews.in/news/tripadvisor-reveals-2025s-must-visit-destinations-top-picks-from-travelers-worldwide",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://reports.weforum.org/docs/WEF_Future_of_Travel_and_Tourism_2025.pdf",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://geographical.co.uk/news/top-10-countries-leading-the-way-in-sustainable-tourism",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://worldostats.com/travel-tourism/travel-tourism-development-rankings-by-country/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://transition-pathways.europa.eu/tourism",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://thetravelshots.com/top-10-eco-friendly-destinations-for-2025-travel-sustainably-and-responsibly/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.mindfulecotourism.com/sustainable-travel-trends/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.travelandtourworld.com/news/article/global-travel-trends-for-2025-sustainability-tech-integration-emerging-destinations/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://blog.smart-guide.org/en/tourism-industry-trends-2025-ai-sustainability-emerging-travel-norms",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.insighttrendsworld.com/post/travel-travel-trends-2025-a-blueprint-for-better-tourism",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 4,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response directly addresses both parts of the question with excellent organization and depth. The information about sustainable tourism practices is particularly comprehensive. Minor concerns about the accuracy of 2025 tourism statistics, as these would be projections rather than confirmed data.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 4,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "Thorough, well-structured, and covers both most-visited countries and a wide range of current sustainable tourism practices; minor uncertainty on the precision of 2025 tourism figures.",
+      "model": "GPT4.1"
+    }
+  ]
+}

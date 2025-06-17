@@ -1,0 +1,174 @@
+{
+  "sources": [
+    {
+      "url": "https://www.adaptation-fund.org/climate-project-explorer/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.greenclimate.fund/news/multilateral-climate-funds-launch-climate-project-explorer-cop29",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.eesi.org/articles/view/cop29-announcement-tracker-key-announcements-from-the-2024-un-climate-summit",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.adaptationcommunity.net/news/adaptation-outcomes-at-cop29-key-agreements-and-progress-on-climate-resilience/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://unfccc.int/news/cop29-un-climate-conference-agrees-to-triple-finance-to-developing-countries-protecting-lives-and",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.adaptation-fund.org/blog-adaptation-funds-inclusion-in-key-cop29-decisions-raises-promise-for-2025-and-beyond-for-vulnerable-countries/",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://impact.economist.com/sustainability/net-zero-and-energy/climate-finance-takeaways-from-cop29",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.adaptation-fund.org/cop29/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://climatefactchecks.org/climate-justice-in-action-cop29s-300-billion-pledge-for-developing-nations/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.weforum.org/stories/2024/11/cop29-4-key-takeaways/",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://apnews.com/article/climate-cop29-finance-deal-explainer-52d39dd252ffcc4d4b8d1a9a68e375e4",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.unepfi.org/industries/banking/at-cop29-major-public-and-private-finance-coalition-issues-recommendations-for-post-2025-climate-finance-goals/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.downtoearth.org.in/climate-change/baku-to-belem-roadmap-countries-diverge-on-how-to-mobilise-13-trillion-climate-finance",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://wmo.int/media/news/cop29-ends-compromise-climate-financing",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://unglobalcompact.org/compactjournal/key-takeaways-cop29",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.forbes.com/sites/sumantsinha/2024/12/13/post-cop29-the-key-forces-shaping-the-future-of-climate-action/",
+      "relevance": 2,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://trendsresearch.org/insight/the-cop29-legacy-initiatives-and-achievements-shaping-global-climate-goals/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/reflections-post-cop29-the-landscape-has-shifted-are-you-adapting-fast-enough",
+      "relevance": 2,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.climaterealityproject.org/blog/what-comes-next-after-cop-29",
+      "relevance": 2,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.noaa.gov/news/cop29-un-climate-summit-comes-to-conclusion-our-top-6-highlights",
+      "relevance": 2,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.wri.org/insights/cop29-outcomes-next-steps",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.woodwellclimate.org/key-cop29-outcomes/",
+      "relevance": 2,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.carbonbrief.org/cop29-key-outcomes-agreed-at-the-un-climate-talks-in-baku/",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.climatepartner.com/en/knowledge/insights/cop29-outcomes-what-they-mean-for-climate-finance-and-carbon-markets",
+      "relevance": 2,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://2021-2025.state.gov/cop29-releases-adaptation/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 1,
+      "Correctness": 1,
+      "Completeness": 1,
+      "Clarity": 4,
+      "Depth": 3,
+      "Comment": "The response is fundamentally flawed as it discusses COP29 as if it has already occurred and projects have been launched afterward, when COP29 is scheduled for November 2024 and hasn't happened yet. The information presented is fabricated, though well-structured and clearly written.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response is highly detailed, lists multiple major projects, describes funding sources, and gives contextual analysis, all in clear, well-structured paragraphs.",
+      "model": "GPT4.1"
+    }
+  ]
+}

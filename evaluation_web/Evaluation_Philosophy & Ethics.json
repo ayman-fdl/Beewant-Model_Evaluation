@@ -1,0 +1,186 @@
+{
+  "sources": [
+    {
+      "url": "https://www.hrw.org/news/2025/05/13/statement-ethical-considerations-unga-meeting-lethal-autonomous-weapons-systems",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://globaleducationnews.org/regulating-autonomous-weapons-un-efforts-and-global-challenges-in-2025/",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://unodaweb-meetings.unoda.org/public/2025-05/UNGA%20AWS-HRW%20ethics%20statement-5%2013%2025c-final_REV.pdf",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://autonomousweapons.org/global-legal-framework-milestones/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://lieber.westpoint.edu/future-warfare-national-positions-governance-lethal-autonomous-weapons-systems/",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://news.un.org/en/story/2025/06/1163891",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://apps.dtic.mil/sti/trecms/pdf/AD1108368.pdf",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/ethics-and-international-affairs/article/banning-autonomous-weapons-a-legal-and-ethical-mandate/5FD01B5A96116766C3B1273490B24897",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://www.icrc.org/en/document/ethics-and-autonomous-weapon-systems-ethical-basis-human-control",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://news.stanford.edu/stories/2019/05/ethics-autonomous-weapons",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 1
+    },
+    {
+      "url": "https://www.amacad.org/publication/daedalus/ethics-morality-robotic-warfare-assessing-debate-over-autonomous-weapons",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://moderndiplomacy.eu/2024/08/12/autonomous-weapon-systems-a-moral-discussion-and-considerations-for-regulation/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://edition.cnn.com/2025/02/04/business/google-ai-weapons-surveillance/index.html",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://venturebeat.com/ai/google-drops-ai-weapons-ban-what-it-means-for-the-future-of-artificial-intelligence/",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2025/2/5/chk_google-drops-pledge-not-to-use-ai-for-weapons-surveillance",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/google-drops-ai-weapons-ban-a-shift-in-ethics-and-national-security",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.allaboutai.com/ai-news/google-quietly-removes-ai-ethics-pledge-on-weapons-surveillance-use/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://theconversation.com/google-has-dropped-its-promise-not-to-use-ai-for-weapons-its-part-of-a-troubling-trend-249169",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.icrc.org/sites/default/files/document/file_list/autonomous_weapon_systems_under_international_humanitarian_law.pdf",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://www.act.nato.int/wp-content/uploads/2023/05/capdev_02.pdf",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.rand.org/topics/autonomous-military-systems.html",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://www.nato.int/cps/en/natohq/official_texts_208376.htm",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://documents.unoda.org/wp-content/uploads/2020/07/20200716-ICRC.pdf",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 1
+    },
+    {
+      "url": "https://disarmament.blogs.pace.edu/2025/02/02/morality-in-an-age-of-autonomous-weapons/",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.armscontrol.org/act/2025-01/features/geopolitics-and-regulation-autonomous-weapons-systems",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://fsi.stanford.edu/sipr/content/lethal-autonomous-weapons-next-frontier-international-security-and-arms-control",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.sipri.org/commentary/topical-backgrounder/2025/dilemmas-policy-debate-autonomous-weapon-systems",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 4,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response thoroughly addresses ethical frameworks for autonomous weapons in 2025, covering human control, IHL compliance, accountability, philosophical perspectives, and regulatory initiatives. Minor concerns about factual verification of some claims, but overall provides excellent depth and organization.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "Exceptionally thorough answer that explains diverse ethical frameworks, stakeholder positions, and relevant forums with clear organization and insightful analysis.",
+      "model": "GPT4.1"
+    }
+  ]
+}

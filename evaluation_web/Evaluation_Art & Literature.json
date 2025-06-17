@@ -1,0 +1,150 @@
+{
+  "sources": [
+    {
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2025",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.rd.com/article/pulitzer-prize-fiction/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://atlanticbooks.com/blogs/news/pulitzer-prize-2025-winners-and-finalists-in-focus",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://scroll.in/article/1082073/the-2025-pulitzer-prizes-a-readers-guide-to-the-seven-winning-books",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://reviews.readingtrolls.com/pulitzer-prize-2025-full-list-of-winners-in-books-drama-music-and-journalism/",
+      "relevance": 5,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://bookshop.org/lists/pulitzer-prize-winning-books-and-finalists-2025",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nytimes.com/2025/05/05/books/pulitzer-prizes-books-winners-finalists.html",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.washingtonpost.com/books/2025/05/05/2025-pulitzer-prize-books/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nytimes.com/2025/05/06/books/james-percival-everett-pulitzer-jury.html",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.npr.org/2025/05/05/nx-s1-5381150/pulitzer-prizes-2025",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.timesnownews.com/lifestyle/books/james-by-percival-everett-wins-the-pulitzer-prize-for-fiction-article-151572435",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://bookclubs.com/blog/2025-book-awards-and-book-prize-winners",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.upr.org/npr-news/2025-05-05/james-wins-2025-pulitzer-prize-for-fiction",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.themirror.com/entertainment/pulitzer-prize-fiction-winner-2025-1135080",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.crlibrary.org/news/check-these-out-2025-pulitzer-prize-winners-finalists",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://bookriot.com/here-are-the-winners-of-the-2025-pulitzer-prize/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2025_Pulitzer_Prize",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.knba.org/npr-news/2025-05-05/james-wins-2025-pulitzer-prize-for-fiction",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.kirkusreviews.com/news-and-features/articles/winners-of-the-2025-pulitzer-prizes-revealed/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://earlybirdbooks.com/2025-pulitzer-prize-winners",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://lithub.com/here-are-the-2025-pulitzer-prize-winners/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response comprehensively addresses the central themes of Percival Everett's 'James' and provides detailed information about both critical acclaim (awards, reviewer perspectives) and public reception (including mixed reactions). It effectively balances thematic analysis with reception details.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "Thorough and nuanced coverage of the novel's themes, critical and public reception, with clear, insightful explanation and precise topical focus.",
+      "model": "GPT4.1"
+    }
+  ]
+}

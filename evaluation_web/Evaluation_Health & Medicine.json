@@ -1,0 +1,180 @@
+{
+  "sources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8219278/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8758130/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01130-5",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7266571/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30235-2/fulltext",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.who.int/news-room/feature-stories/detail/the-impact-of-covid-19-on-mental-health-cannot-be-made-light-of",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022299/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://medicalxpress.com/news/2022-04-countries-pandemic-impacts-mental-health.html",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9023007/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.who.int/news/item/25-03-2025-new-who-guidance-calls-for-urgent-transformation-of-mental-health-policies",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://gpsych.bmj.com/content/34/1/e100424",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34262666/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124823/",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.who.int/teams/mental-health-and-substance-use/mental-health-and-covid-19",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10230139/",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9060646/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://gulfnews.com/opinion/op-eds/mental-health-in-post-pandemic-world-trends-and-treatments-1.103859835",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.who.int/news/item/17-06-2022-who-highlights-urgent-need-to-transform-mental-health-and-mental-health-care",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39620235/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.cdc.gov/mental-health/about/what-cdc-is-doing.html",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.healthaffairs.org/content/forefront/five-urgent-public-health-policies-combat-mental-health-effects-covid-19",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.cdc.gov/pcd/issues/2020/20_0261.htm",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9516693/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.nimh.nih.gov/health/topics/covid-19-and-mental-health",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.healthaffairs.org/content/forefront/addressing-nations-behavioral-health-crisis-hhs-roadmap-integrate-behavioral-health",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 3
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 4,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 4,
+      "Comment": "The response directly addresses the question with comprehensive coverage of both mental health effects and country responses. Minor issues with citation formatting and some claims could benefit from more specific evidence, but overall provides clear, well-structured analysis.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "Comprehensive, well-structured answer that covers global mental health impacts, country strategies, and specific interventions with nuanced examples and analysis.",
+      "model": "GPT4.1"
+    }
+  ]
+}

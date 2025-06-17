@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rapport d'Évaluation de Qwen 3 - Capacités de Recherche Web</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #2c3e50;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 40px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h1, h2, h3 {
+            color: #1a365d;
+            margin-top: 0;
+        }
+        h1 {
+            font-size: 2.5em;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 15px;
+            margin-bottom: 30px;
+        }
+        .summary {
+            background-color: #f8fafc;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border-left: 4px solid #4299e1;
+        }
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin: 30px 0;
+        }
+        .metric-card {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            border: 1px solid #e2e8f0;
+        }
+        .rating {
+            font-weight: 600;
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+        .rating-5 { color: #2f855a; background-color: #f0fff4; }
+        .rating-4 { color: #2c5282; background-color: #ebf8ff; }
+        .rating-3 { color: #975a16; background-color: #fffaf0; }
+        .rating-2 { color: #c53030; background-color: #fff5f5; }
+        .rating-1 { color: #9b2c2c; background-color: #fff5f5; }
+        .chart-container {
+            margin: 30px 0;
+            padding: 25px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            border: 1px solid #e2e8f0;
+        }
+        .performance-summary {
+            font-size: 1.1em;
+            margin: 25px 0;
+            padding: 20px;
+            background-color: #ebf8ff;
+            border-radius: 8px;
+            border-left: 4px solid #4299e1;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .conclusion {
+            background-color: #f0fff4;
+            border-left: 4px solid #48bb78;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Rapport d'Évaluation de Qwen 3 - Capacités de Recherche Web</h1>
+        
+        <div class="summary">
+            <h2>Résumé Exécutif</h2>
+            <p>Ce rapport présente une évaluation approfondie des capacités de recherche web de Qwen 3 à travers 20 sujets thématiques différents. L'évaluation se concentre sur deux aspects principaux :</p>
+            <ul>
+                <li>Évaluation de la Qualité des Sources : Analyse de la pertinence, de la crédibilité et de l'actualité des sources fournies</li>
+                <li>Évaluation de la Qualité des Réponses : Analyse de la qualité des réponses par Claude 3.7 et GPT-4.1</li>
+            </ul>
+        </div>
+
+        <h2>Méthodologie d'Évaluation</h2>
+        <div class="summary">
+            <h3>Questions d'Évaluation</h3>
+            <p>L'évaluation a été réalisée sur un ensemble de 20 questions couvrant différents domaines thématiques :</p>
+            <div class="metric-card">
+                <ul>
+                    <li><strong>Géographie :</strong> Comment le changement climatique affecte-t-il la disponibilité de l'eau dans la région du Sahel en Afrique ?</li>
+                    <li><strong>Santé & Médecine :</strong> Quels sont les effets à long terme du COVID-19 sur la santé mentale mondiale et comment les différents pays y répondent-ils ?</li>
+                    <li><strong>Politique & Gouvernement :</strong> Quelles sont les réformes politiques clés proposées dans la mise à jour 2025 du Pacte Vert européen et leur impact attendu ?</li>
+                    <li><strong>Science :</strong> Quelles sont les percées les plus prometteuses en informatique quantique en 2025 et quelles entreprises ou institutions mènent la recherche ?</li>
+                    <li><strong>Technologie :</strong> Comment l'IA générative transforme-t-elle le marché du travail en 2025 et quelles stratégies sont adoptées pour atténuer ses risques ?</li>
+                    <li><strong>Histoire :</strong> Quelles ont été les causes profondes et les conséquences géopolitiques de la guerre en Ukraine entre 2022 et 2025 ?</li>
+                    <li><strong>Économie & Finance :</strong> Comment les banques centrales du monde entier répondent-elles à l'inflation en 2025 et quelles sont les différentes politiques monétaires aux États-Unis, dans l'UE et en Chine ?</li>
+                    <li><strong>Éducation :</strong> Quelles sont les dernières tendances en matière d'éducation assistée par l'IA et comment les écoles intègrent-elles ces outils à l'échelle mondiale en 2025 ?</li>
+                    <li><strong>Actualités :</strong> Quels sont les principaux conflits ou crises mondiaux en cours en juin 2025 et comment la communauté internationale y répond-elle ?</li>
+                    <li><strong>Droit & Justice :</strong> Quelles sont les principales controverses entourant les lois sur la réglementation de l'IA dans l'UE et aux États-Unis en 2025 ?</li>
+                    <li><strong>Art & Littérature :</strong> Quels sont les thèmes centraux du roman lauréat du prix Pulitzer 2025 et comment a-t-il été reçu par la critique et le public ?</li>
+                    <li><strong>Philosophie & Éthique :</strong> Quels cadres éthiques sont proposés pour l'utilisation d'armes autonomes par les gouvernements en 2025 ?</li>
+                    <li><strong>Langues & Linguistique :</strong> Comment les langues autochtones sont-elles préservées grâce à la technologie en 2025 et quelles initiatives mondiales montrent la voie ?</li>
+                    <li><strong>Sports :</strong> Quels ont été les moments marquants des Jeux Olympiques de Paris 2024 et leur impact culturel plus large ?</li>
+                    <li><strong>Religion :</strong> Comment les institutions religieuses répondent-elles à la sécularisation croissante en Europe et en Amérique du Nord en 2025 ?</li>
+                    <li><strong>Environnement & Climat :</strong> Quels sont les projets d'adaptation climatique les plus impactants lancés après la COP29 et comment sont-ils financés ?</li>
+                    <li><strong>Problèmes Sociaux :</strong> Quels sont les principaux défis et innovations dans la lutte contre les inégalités de logement dans le monde en 2025 ?</li>
+                    <li><strong>Psychologie & Santé Mentale :</strong> Comment l'essor de la thérapie virtuelle et des applications de santé mentale a-t-il affecté l'accessibilité et l'efficacité des traitements dans le monde ?</li>
+                    <li><strong>Médias & Divertissement :</strong> Comment l'industrie du divertissement s'adapte-t-elle au contenu généré par l'IA en 2025 et quels problèmes juridiques émergent ?</li>
+                    <li><strong>Voyage & Tourisme :</strong> Quels sont les pays les plus visités en 2025 et quelles pratiques de tourisme durable sont promues ?</li>
+                </ul>
+            </div>
+
+            <h3>Critères d'Évaluation des Sources</h3>
+            <div class="metric-card">
+                <h4>Pertinence (1-5)</h4>
+                <p>Évalue dans quelle mesure le titre et le snippet de la source indiquent clairement qu'elle contient des informations pertinentes pour la question. La pertinence est jugée sur la base de la correspondance entre les mots-clés de la question et ceux présents dans le titre et le snippet, ainsi que sur la cohérence apparente du contenu avec le sujet demandé.</p>
+
+                <h4>Crédibilité (1-5)</h4>
+                <p>Évalue la fiabilité apparente de la source basée sur le domaine du lien (par exemple, .edu, .gov, .org), le nom du site web, et la formulation du titre et du snippet. Les sources provenant de domaines institutionnels, de médias reconnus ou d'organisations établies sont considérées comme plus crédibles.</p>
+
+                <h4>Actualité (1-5)</h4>
+                <p>Mesure la fraîcheur apparente de l'information basée sur les indices temporels présents dans le titre et le snippet (dates, références à des événements récents). L'évaluation se fait sur la base des mentions explicites de dates ou d'événements récents dans le snippet, sans accès au contenu complet de la page.</p>
+            </div>
+
+            <h3>Critères d'Évaluation des Réponses</h3>
+            <div class="metric-card">
+                <h4>Pertinence (1-5)</h4>
+                <p>Évalue dans quelle mesure la réponse répond directement et précisément à la question posée, sans digression ni information superflue. Une réponse pertinente doit rester focalisée sur le sujet demandé.</p>
+
+                <h4>Exactitude (1-5)</h4>
+                <p>Mesure la précision et la fiabilité des informations fournies. Une réponse exacte doit être basée sur des faits vérifiables et des sources fiables, sans erreurs factuelles ou interprétations incorrectes.</p>
+
+                <h4>Exhaustivité (1-5)</h4>
+                <p>Évalue la couverture complète du sujet, en incluant tous les aspects importants de la question. Une réponse exhaustive doit aborder tous les points essentiels sans omissions significatives.</p>
+
+                <h4>Clarté (1-5)</h4>
+                <p>Mesure la qualité de la structure et de la présentation de la réponse. Une réponse claire doit être bien organisée, facile à comprendre et utiliser un langage approprié pour le sujet.</p>
+
+                <h4>Profondeur (1-5)</h4>
+                <p>Évalue le niveau d'analyse et de détail fourni dans la réponse. Une réponse profonde doit aller au-delà des informations de base, fournissant des analyses pertinentes et des détails significatifs.</p>
+            </div>
+
+            <h3>Comparaison des Évaluations par Modèle</h3>
+            <div class="metric-card">
+                <div class="chart-container">
+                    <canvas id="modelComparisonChart"></canvas>
+                </div>
+                <div class="chart-legend">
+                    <div class="legend-item">
+                        <span class="legend-color" style="background-color: #4CAF50;"></span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color" style="background-color: #2196F3;"></span>
+                        
+                    </div>
+                </div>
+                <div class="comparison-analysis">
+                    <h4>Analyse Comparative</h4>
+                    <p>Les deux modèles d'évaluation (Claude 3.7 et GPT-4.1) montrent une convergence remarquable dans leurs évaluations. Les moyennes des critères sont très similaires entre les deux modèles, ce qui suggère une grande fiabilité dans l'évaluation des réponses de Qwen 3.</p>
+                    <p>Les commentaires des deux modèles soulignent :</p>
+                    <ul>
+                        <li>La pertinence et l'exactitude des informations</li>
+                        <li>La structure claire et l'organisation des réponses</li>
+                        <li>La profondeur de l'analyse et la qualité des détails</li>
+                        <li>La couverture complète des aspects demandés</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <h2>Métriques de Performance Globales</h2>
+        <div class="metrics">
+            <div class="metric-card">
+                <h3>Qualité des Sources (Moyenne)</h3>
+                <ul>
+                    <li>Pertinence : <span class="rating rating-4">4,2/5</span></li>
+                    <li>Crédibilité : <span class="rating rating-4">4,6/5</span></li>
+                    <li>Actualité : <span class="rating rating-3">3,8/5</span></li>
+                </ul>
+            </div>
+            <div class="metric-card">
+                <h3>Qualité des Réponses (Moyenne)</h3>
+                <ul>
+                    <li>Pertinence : <span class="rating rating-5">4,9/5</span></li>
+                    <li>Exactitude : <span class="rating rating-5">4,8/5</span></li>
+                    <li>Exhaustivité : <span class="rating rating-5">4,9/5</span></li>
+                    <li>Clarté : <span class="rating rating-5">4,9/5</span></li>
+                    <li>Profondeur : <span class="rating rating-4">4,8/5</span></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="performance-summary">
+            <h3>Évaluation Globale des Performances</h3>
+            <p>Qwen 3 démontre des performances remarquables dans ses capacités de recherche web, avec des scores particulièrement élevés en matière de qualité des réponses. Le modèle fournit systématiquement des réponses complètes, bien structurées et précises à travers divers domaines. La qualité des sources est généralement bonne, bien qu'il y ait une marge d'amélioration concernant l'actualité des sources.</p>
+        </div>
+
+        <h2>Principales Constatations</h2>
+        <div class="summary">
+            <h3>Points Forts</h3>
+            <ul>
+                <li>Qualité exceptionnelle des réponses dans tous les domaines (moyenne 4,8-4,9/5)</li>
+                <li>Haute crédibilité (4,6/5) et pertinence (4,2/5) des sources</li>
+                <li>Performance constante à travers différents domaines thématiques</li>
+                <li>Diversité importante des sources et couverture exhaustive</li>
+                <li>Excellente clarté et exhaustivité des réponses</li>
+            </ul>
+
+            <h3>Axes d'Amélioration</h3>
+            <ul>
+                <li>Actualité des sources à améliorer (3,8/5)</li>
+                <li>Variations dans la crédibilité des sources selon les domaines</li>
+                <li>Légères incohérences dans l'évaluation de la profondeur des réponses</li>
+            </ul>
+
+            <h3>Recommandations</h3>
+            <ul>
+                <li>Mise en place de filtres améliorés pour l'actualité des sources</li>
+                <li>Développement de directives spécifiques par domaine pour la crédibilité des sources</li>
+                <li>Standardisation des critères d'évaluation entre les évaluateurs IA</li>
+                <li>Mise en place d'audits réguliers de la qualité des sources</li>
+                <li>Intégration de sources de données plus récentes</li>
+            </ul>
+        </div>
+
+        <h2>Conclusion</h2>
+        <div class="summary conclusion">
+            <p>Qwen 3 démontre des capacités solides en recherche web et génération de réponses, avec des performances particulièrement élevées en matière de qualité des réponses. Le modèle fournit systématiquement des réponses complètes, précises et bien structurées à travers divers domaines. Bien que la qualité des sources soit généralement bonne, il existe une marge d'amélioration concernant l'actualité des sources et la cohérence de leur crédibilité à travers différents domaines.</p>
+            <p>Les performances globales suggèrent que Qwen 3 est un outil fiable pour la recherche web et la récupération d'informations, avec des points forts particuliers dans la génération de réponses de haute qualité. Les domaines d'amélioration identifiés concernent principalement la sélection et l'actualité des sources, qui pourraient être optimisés par des améliorations ciblées des algorithmes de sélection des sources.</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+    <script>
+        Chart.register(ChartDataLabels);
+        const ctx = document.getElementById('modelComparisonChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Pertinence', 'Exactitude', 'Exhaustivité', 'Clarté', 'Profondeur'],
+                datasets: [{
+                    label: 'Claude 3.7',
+                    data: [4.9, 4.8, 4.9, 4.9, 4.8],
+                    backgroundColor: '#4CAF50',
+                    borderColor: '#4CAF50',
+                    borderWidth: 1
+                }, {
+                    label: 'GPT-4.1',
+                    data: [4.8, 4.9, 4.8, 4.9, 4.8],
+                    backgroundColor: '#2196F3',
+                    borderColor: '#2196F3',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 5,
+                        ticks: {
+                            stepSize: 0.5
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        position: 'top'
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return `${context.dataset.label}: ${context.raw}/5`;
+                            }
+                        }
+                    },
+                    datalabels: {
+                        anchor: 'end',
+                        align: 'top',
+                        formatter: function(value) {
+                            return value.toFixed(1);
+                        },
+                        color: '#000',
+                        font: {
+                            weight: 'bold'
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html> 

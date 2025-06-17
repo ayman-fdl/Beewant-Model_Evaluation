@@ -1,0 +1,156 @@
+{
+  "sources": [
+    {
+      "url": "https://www.cfr.org/report/conflicts-watch-2025",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://nordicdefencereview.com/global-conflict-landscape-in-2025-local-wars-and-uprisings/",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.globalissues.org/news/2025/06",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.ryanjhite.com/2025/01/03/the-world-at-war-in-2025-a-year-of-potential-crises/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.rescue.org/article/top-10-crises-world-cant-ignore-2025",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.bunker-swiss.com/en/conflict/the-evolution-of-global-conflicts-in-2025-figures-impacts-and-perspectives/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.unocha.org/publications/report/world/global-humanitarian-overview-2025-enarfres",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.rescue.org/watchlist2025",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.spf.org/en/seminar/list/20241203.html",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.ifrc.org/document/ifrc-global-plan-2025",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.jadetimes.com/post/the-global-refugee-crisis-challenges-and-solutions-in-2025",
+      "relevance": 3,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://reliefweb.int/report/world/message-launch-2025-humanitarian-overview-secretary-general-says-47-billion-needed-assist-190-million-people-across-72-countries",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://worldpopulationreview.com/country-rankings/countries-currently-at-war",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.datapandas.org/ranking/countries-currently-at-war",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 4
+    },
+    {
+      "url": "https://acleddata.com/conflict-watchlist-2025/",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.crs.org/global-emergency-updates/global-emergency-update-june-2025",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://concernusa.org/news/worst-humanitarian-crises/",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://africa.businessinsider.com/local/lifestyle/the-10-most-urgent-humanitarian-crises-facing-the-world-in-2025/l6phdce",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.globaldispatches.org/p/these-are-the-32-global-crises-the",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.crisisgroup.org/sites/default/files/2025-01/10-conflicts-to-watch-in-2025_0.pdf",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.weforum.org/publications/global-risks-report-2025/in-full/global-risks-2025-a-world-of-growing-divisions-c943fe3ba0/",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 4,
+      "Correctness": 3,
+      "Completeness": 3,
+      "Clarity": 5,
+      "Depth": 4,
+      "Comment": "The response addresses the question directly with well-organized information about major conflicts, but appears to be cut off mid-analysis and lacks coverage of other potential global crises beyond the three mentioned conflicts.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 4,
+      "Completeness": 4,
+      "Clarity": 5,
+      "Depth": 4,
+      "Comment": "The answer is clearly structured and covers major conflicts and international responses, but misses some potential crises for full completeness and gives limited analysis in places.",
+      "model": "GPT4.1"
+    }
+  ]
+}

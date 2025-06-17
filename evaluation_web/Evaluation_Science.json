@@ -1,0 +1,180 @@
+{
+  "sources": [
+    {
+      "url": "https://www.trailyn.com/10-key-quantum-computing-breakthroughs-in-2025/",
+      "relevance": 5,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.quantumuting.com/quantum-computing-in-2025-key-milestones-and-breakthroughs/",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.techfunnel.com/fintech/ft-latest/quantum-computing-2025-industry-breakthroughs/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://knowledgehubmedia.com/quantum-computing-in-2025-whats-new-and-whats-next/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://techspark.in/future-tech/quantum-computing-2025-breakthroughs-challenges",
+      "relevance": 5,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.analyticsinsight.net/quantum-computing-analytics-insight/quantum-chips-in-2025-the-breakthrough-year-for-quantum-computing",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.forbes.com/sites/technology/article/top-quantum-computing-companies/",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.analyticsinsight.net/quantum-computing-analytics-insight/10-most-innovative-quantum-computing-companies-in-2025",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.analyticsinsight.net/companies/top-100-quantum-computing-companies-of-2025",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.spinquanta.com/news-detail/top-companies-working-on-quantum-computers-updated20250114101321",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://techyinno.com/top-20-quantum-computer-companies-in-2025/",
+      "relevance": 5,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.securities.io/quantum-computing-companies-2025/",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.forbes.com/sites/drektadang/2025/03/09/recent-breakthroughs-accelerate-the-race-for-quantum-computing/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/qute.202400628",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://thequantuminsider.com/2024/12/31/2025-expert-quantum-predictions-quantum-computing/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://modernsciences.org/quantum-chip-2025-advances-how-it-works-quantum-computing-january-2025/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://thequantuminsider.com/2024/05/21/20-top-universities-for-quantum-computing-research/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://globalbizoutlook.com/top-20-universities-leading-quantum-computing-research/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 3
+    },
+    {
+      "url": "https://industrywired.com/top-quantum-computing-research-institutes-in-2024/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://thequantuminsider.com/2025/03/26/top-universities-for-quantum-research-2025/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.the-next-tech.com/artificial-intelligence/10-best-leading-universities-for-quantum-computing-research/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.analyticsinsight.net/latest-news/top-10-leading-universities-for-quantum-computing-research",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.techopedia.com/future-of-quantum-computing",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.techi.com/latest-developments-in-quantum-computing/",
+      "relevance": 5,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.ibm.com/quantum/blog/ibm-quantum-roadmap-2025",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://observer.com/2025/06/future-of-quantum-computing-innovation/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 4,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response directly addresses the question with excellent organization and comprehensive coverage of breakthroughs and leading organizations. Minor factual concerns about specific claims (like exact error reduction rates) that may be speculative for 2025 prevent a perfect correctness score.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 4,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "Extremely thorough and clearly organized response covering major breakthroughs and leading institutions, though some specific hardware details may need verification for correctness.",
+      "model": "GPT4.1"
+    }
+  ]
+}

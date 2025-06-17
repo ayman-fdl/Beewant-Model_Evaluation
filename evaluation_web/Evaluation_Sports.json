@@ -1,0 +1,168 @@
+{
+  "sources": [
+    {
+      "url": "https://www.npr.org/2024/08/12/g-s1-16581/paris-olympics-best-moments",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://time.com/7009969/most-memorable-paris-summer-olympics-moments/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLyIUuPts9_V2zwF2vnbNal5vCNB3tLwC4",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nbc.com/nbc-insider/2024-paris-olympics-top-moments-highlights",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.vogue.com/article/olympics-2024-best-moments",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://olympics.com/en/paris-2024/videos/paris-2024-best-moments",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://olympics.com/ioc/news/all-you-need-to-know-about-impact-and-legacy-at-paris-2024-for-the-people-for-the-community-and-for-the-environment",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://gjia.georgetown.edu/2024/08/25/the-persistent-problems-of-the-olympic-games-a-focus-on-paris-2024/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/00027642241261262",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://olympics.com/ioc/news/paris-2024-legacy-benefitting-millions-across-france",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.oxfordeconomics.com/resource/2024-paris-olympics-impact-on-tourism-and-beyond/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yair-Galily/publication/381487933_Beyond_the_Rings_Exploring_the_Cultural_and_Behavioral_Impact_of_the_2024_Paris_Olympics/links/66711b2c85a4ee7261cea613/Beyond-the-Rings-Exploring-the-Cultural-and-Behavioral-Impact-of-the-2024-Paris-Olympics.pdf",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://olympics.com/en/paris-2024/videos",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.forbes.com/sites/jackmagruder/2024/08/14/the-10-most-incredible-highlights-from-the-2024-paris-olympics/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.foxsports.com/summer-olympics/highlights",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nydailynews.com/2024/07/28/paris-summer-olympics-2024-highlights/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://library.olympics.com/Default/doc/SYRACUSE/3459871/ioc-final-report-on-paris-2024-international-olympic-committee?_lg=en-GB",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://parisjetaime.com/eng/article/after-the-paris-games-2024-legacy-a1776",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.lemonde.fr/en/sports/article/2024/01/05/olympics-what-legacy-for-paris-2024_6402648_9.html",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://all.paris/en/articles/paris-2024-legacy",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.gensler.com/blog/paris-2024-olympic-success-reuse-temporality-legacy",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://edition.cnn.com/2024/08/12/sport/stories-to-remember-paris-olympics",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://olympics.com/en/news/paris-2024-olympics-best-moments-first-week",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nbc4i.com/2024-olympics/paris-olympics-most-memorable-moments-from-the-games/",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 3,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response thoroughly covers key Olympic moments with excellent organization and depth, but contains factual errors about the 2024 Olympics (which haven't occurred yet) and includes fictional citations.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 3,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "Response is thorough, clearly written, and covers all major angles, but several key details\u2014such as specific athlete achievements and events\u2014appear to be hypothetical or unverified, impacting factual correctness.",
+      "model": "GPT4.1"
+    }
+  ]
+}

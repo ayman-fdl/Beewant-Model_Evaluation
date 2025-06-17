@@ -1,0 +1,198 @@
+{
+  "sources": [
+    {
+      "url": "https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/aijb-2025-united-states-analysis.pdf",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-2025-update",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://hbr.org/2024/11/research-how-gen-ai-is-already-impacting-the-labor-market",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.bls.gov/opub/ted/2025/ai-impacts-in-bls-employment-projections.htm",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.forbes.com/sites/jackkelly/2025/04/25/the-jobs-that-will-fall-first-as-ai-takes-over-the-workplace/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136877",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.weforum.org/stories/2024/01/how-companies-can-mitigate-the-risk-of-ai-in-the-workplace/",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.datagalaxy.com/en/blog/ai-risk-management/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2024/06/05/the-risks-and-rewards-of-ai-strategies-for-mitigation-and-containment/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.cooley.com/news/insight/2023/2023-12-19-10-steps-to-reduce-risks-from-ai-employment-tools",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://hbr.org/sponsored/2021/12/how-organizations-can-mitigate-the-risks-of-ai",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 1
+    },
+    {
+      "url": "https://www.bcg.com/publications/2023/a-guide-to-mitigating-ai-risks",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.weforum.org/stories/2025/01/ai-2025-workplace/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://hbr.org/2025/05/agentic-ai-is-already-changing-the-workforce",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://eastgate-software.com/the-future-of-ai-and-automation-in-the-workforce-2025-guide/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://hrtechedge.com/ai-and-automation-how-work-is-changing-globally-by-2025/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www2.deloitte.com/us/en/pages/consulting/articles/generative-ai-and-the-future-of-work.html",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-america",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.brookings.edu/articles/generative-ai-the-american-worker-and-the-future-of-work/",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://perspectives.lexisnexis.com/future-of-work-2025/index.html",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-gen-ai-and-the-future-of-work",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.deloitte.com/global/en/services/consulting/research/generative-ai-and-the-future-of-work.html",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.forbes.com/sites/dianaspehar/2025/01/09/ai-governance-in-2025--expert-predictions-on-ethics-tech-and-law/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://observer.com/2025/04/corporate-ai-responsibility-in-2025-how-to-navigate-ai-ethics/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://natlawreview.com/article/ai-legislation-rise-what-should-employers-expect-2025",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.cimplifi.com/resources/the-updated-state-of-ai-regulations-for-2025/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.credo.ai/blog/key-ai-regulations-in-2025-what-enterprises-need-to-know",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://fairnow.ai/what-do-artificial-intelligence-regulations-look-like-in-2025/",
+      "relevance": 3,
+      "credibility": 2,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response comprehensively addresses how generative AI is reshaping the 2025 job market with specific examples, statistics, and sector analyses, while thoroughly detailing mitigation strategies including upskilling initiatives, regulatory frameworks, and human-centric approaches.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response is comprehensive, well-organized, factually accurate, and clearly explains how generative AI impacts the job market and what mitigation strategies are being implemented.",
+      "model": "GPT4.1"
+    }
+  ]
+}

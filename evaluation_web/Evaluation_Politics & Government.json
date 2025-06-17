@@ -1,0 +1,150 @@
+{
+  "sources": [
+    {
+      "url": "https://congenius.ch/wp-content/uploads/2025/02/EU-Green-Deal-and-Directives-Summary-2025-1.pdf",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/delivering-european-green-deal-jrc-study-finds-mixed-progress-so-far-2025-02-05_en",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.politico.eu/tag/european-green-deal/",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://eu.boell.org/en/2025/05/07/green-paper-red-practice-updated-green-deal-risk-radar-warns-delays-and-watering-down",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.sciencespo.fr/psia/chair-sustainable-development/2024/07/22/europes-choice-the-next-phase-of-the-european-green-deal/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.weforum.org/stories/2025/03/eu-omnibus-proposal-what-lies-ahead/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.brusselstimes.com/eu-affairs/1544181/european-commission-plans-major-rollback-of-green-deal-rules",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.hrw.org/news/2025/05/28/eu-commission-president-receives-award-green-deal-laws-she-undoing",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/climate-action-and-green-deal_en",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://esdac.jrc.ec.europa.eu/content/delivering-eu-green-deal-progress-towards-targets",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://eu.boell.org/sites/default/files/2025-05/20250512_european_green_deal_risk_radar_final_web.pdf",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://op.europa.eu/en/publication-detail/-/publication/33a4bbe1-e2b0-11ef-be2a-01aa75ed71a1/language-en",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://reports.weforum.org/docs/WEF_Delivering_on_the_European_Green_Deal_A_Private_Sector_Perspective_2025.pdf",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_3541/IP_21_3541_EN.pdf",
+      "relevance": 2,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://www.europarl.europa.eu/legislative-train/theme-a-european-green-deal/file-repower-eu-plan-legislative-proposals",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/delivering-european-green-deal_en",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://finance.ec.europa.eu/news/sustainable-finance-2025-05-21_en",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.europarl.europa.eu/legislative-train/carriage/repower-eu-plan-legislative-proposals/report?sid=7501",
+      "relevance": 2,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://ieep.eu/publications/european-green-deal-barometer-2025/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://euagenda.eu/publications/delivering-the-eu-green-deal-progress-towards-targets-2025",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response comprehensively covers all key political reforms in the 2025 European Green Deal update with excellent organization, factual accuracy, and insightful analysis of both short-term and long-term impacts for each reform.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response is highly relevant, thoroughly covers key Green Deal reforms, is accurate, well-structured, and provides thoughtful analysis with clear articulation of short- and long-term impacts.",
+      "model": "GPT4.1"
+    }
+  ]
+}

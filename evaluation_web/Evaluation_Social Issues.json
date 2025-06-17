@@ -1,0 +1,204 @@
+{
+  "sources": [
+    {
+      "url": "https://news.un.org/en/story/2025/05/1163851",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://solkes.com/en/n-fokus/2025/02/the-global-housing-crisis/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.weforum.org/stories/2025/06/housing-affordability-crisis/",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nahb.org/blog/2025/01/world-leaders-g7-summit-housing",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://cepr.org/voxeu/columns/housing-and-inequality-critical-link-economic-disparities",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://unhabitat.org/sites/default/files/2025/06/30.05.2025_press_release_unha2.2_closing_press_conference.pdf",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.ivoryinnovations.org/post/top-25-housing-innovations-of-2025",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.orlo.com/post/top-trends-in-affordable-housing-for-2025",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://gotpi.org/the-future-of-affordable-housing-innovations-to-watch-in-2025/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://learnarchitecture.net/articles/5160-affordable-housing-trends-shaping-urban-living.html",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    },
+    {
+      "url": "https://homesight.org/the-future-of-affordable-housing-trends-and-innovations/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.luksrealty.com/blog/affordable-housing-innovation-2025/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 5
+    },
+    {
+      "url": "https://homesight.org/affordable-housing-and-equity-addressing-inequalities-in-access/",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://social.desa.un.org/sites/default/files/inline-files/Urbanization%20Housing%20and%20Families%20in%20the%20North%20American%20Context.pdf",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.jchs.harvard.edu/blog/sociology-housing-how-homes-shape-our-social-lives",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.urban.org/research/publication/breaking-barriers-affordable-and-abundant-housing",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/urban-squeeze-how-urbanization-impacts-housing-mitt-chen-mba-ompwc",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.nature.com/articles/s42949-021-00040-y",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 1
+    },
+    {
+      "url": "https://bipartisanpolicy.org/explainer/2025-reconciliation-housing-provisions/",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://nationalfairhousing.org/wp-content/uploads/2025/01/2025-01_v11_NFHA-Priorities_FINAL.pdf",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.hud.gov/sites/dfiles/CFO/documents/2025_Infographic-Final_v3_3-8-24_450PM.pdf",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nacced.org/assets/docs/Advocacy/2025/2025%20Legislative%20and%20Regulatory%20Policy%20Priorities.pdf",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://davisvanguard.org/2025/03/federal-policy-updates-key-legislative-efforts-to-address-housing-and-poverty/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://nationalfairhousing.org/2025-policy-roadmap-offers-solutions-to-the-nations-fair-and-affordable-housing-crisis/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.fundsforngos.org/proposals/developing-eco-friendly-and-affordable-housing-solutions-for-growing-urban-populations/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://worldgbc.org/wp-content/uploads/2023/05/WGBC_SAffordable-Housing-Report_FINAL.pdf",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 2
+    },
+    {
+      "url": "https://homesight.org/solving-the-affordable-housing-crisis/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.urban.org/research/publication/preserving-protecting-and-building-climate-resilient-affordable-housing",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://popuphousing.org/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://reall.net/blog/affordable-housing-a-solution-to-mitigating-global-risks/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 4
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response comprehensively addresses global housing inequality with excellent organization, factual accuracy, and insightful analysis. It effectively balances challenges (urbanization, affordability, climate impacts) with innovations (modular construction, community-led solutions, policy reforms), providing specific examples and data throughout.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response is exceptionally thorough, clearly organized, and demonstrates a deep understanding of both the challenges and innovations in addressing global housing inequality in 2025.",
+      "model": "GPT4.1"
+    }
+  ]
+}

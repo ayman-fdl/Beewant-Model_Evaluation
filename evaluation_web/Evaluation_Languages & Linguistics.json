@@ -1,0 +1,168 @@
+{
+  "sources": [
+    {
+      "url": "https://www.unesco.org/en/articles/national-consultation-indigenous-languages-call-preservation-and-technology-integration",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://vce.usc.edu/weekly-news-profile/preserving-the-past-ai-in-indigenous-language-preservation/",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/Special_presentation_IDIL_UNGEGN_2025.pdf",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.languagepreserve.com/preserving-indigenous-languages-and-cultures-in-the-digital-age/",
+      "relevance": 5,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-025-01354-y",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://languageconservancy.org/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.unesco.org/en/articles/digital-initiatives-indigenous-languages",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.unesco.org/en/articles/empowering-indigenous-languages-digital-age-toolkit-action",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://christinaltruong.org/2020/06/01/digital-tools/",
+      "relevance": 3,
+      "credibility": 2,
+      "freshness": 1
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/11771801211037672",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 2
+    },
+    {
+      "url": "https://link.springer.com/book/10.1007/978-981-97-1987-7",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.salvadorordorica.com/top-initiatives-promoting-language-preservation-in-2024/",
+      "relevance": 4,
+      "credibility": 2,
+      "freshness": 4
+    },
+    {
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000379851",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.gcedclearinghouse.org/resources/digital-initiatives-indigenous-languages",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.languagepreserve.com/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.unesco.org/en/articles/digital-preservation-indigenous-languages-intersection-technology-and-culture",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000387186",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://rising.globalvoices.org/digital-initiatives-for-indigenous-languages/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://tools.gcedclearinghouse.org/sites/default/files/resources/230313eng.pdf",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://core.unesco.org/en/project/3210691011",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.cambridge.org/core/books/revitalizing-endangered-languages/technology-in-language-revitalization/9C4ED484CB915554C249941840999821",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.nativehistory.info/reviving-indigenous-languages-efforts-success-stories/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.daytranslations.com/blog/language-revitalization-programs-strategies-for-preserving-endangered-languages/",
+      "relevance": 3,
+      "credibility": 3,
+      "freshness": 3
+    },
+    {
+      "url": "https://teachflow.ai/the-potential-of-ai-in-language-preservation-and-revival/",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 3
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 4,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 4,
+      "Comment": "The response directly addresses the question with well-organized sections on AI tools, digital platforms, and global initiatives. It provides specific examples and covers ethical considerations, though some cited information may be outdated for 2025 context.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "Thorough, well-organized response with detailed examples, global initiatives, and discussion of ethical issues; fully and clearly addresses the question.",
+      "model": "GPT4.1"
+    }
+  ]
+}

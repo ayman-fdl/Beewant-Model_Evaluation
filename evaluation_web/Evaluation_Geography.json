@@ -1,0 +1,186 @@
+{
+  "sources": [
+    {
+      "url": "https://iwa-network.org/the-impact-of-climate-change-on-water-supply-in-the-sahel-region/",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352801X25000657",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.ohchr.org/en/stories/2022/11/new-un-report-puts-human-face-climate-crisis-sahel",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214581821000574",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.alliance-sahel.org/en/news/sahel-climate-change-challenges/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11978414/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://k4ggwa.thegrit.earth/content/state_of_land/reports/drought_story_cr/drought_story_cr.html",
+      "relevance": 4,
+      "credibility": 3,
+      "freshness": 5
+    },
+    {
+      "url": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1308/",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1308/egusphere-2025-1308.pdf",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://news.climate.columbia.edu/2025/03/18/desertification-the-earth-is-getting-drier/",
+      "relevance": 3,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/severe-drought-africa-persists-and-expected-worsen-2025-04-23_en",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 5
+    },
+    {
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JG008313",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/14781158.2024.2425983",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull54-4/54401211619.pdf",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 2
+    },
+    {
+      "url": "https://www.cfr.org/report/climate-change-and-conflict-sahel",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.orfonline.org/expert-speak/africa-climate-change-water-stress-droughts-and-conflict",
+      "relevance": 5,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.591",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcc.591",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.3984",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://environmentalsystemsresearch.springeropen.com/articles/10.1186/s40068-024-00375-2",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "http://research.jisao.washington.edu/data_sets/sahel/",
+      "relevance": 3,
+      "credibility": 4,
+      "freshness": 3
+    },
+    {
+      "url": "https://futureclimateafrica.org/wp-content/uploads/2019/06/west-african-sahel-has-become-wetter-during-the-last-30-years-but-dry-spells-are-shorter-and-more-frequent.pdf",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 2
+    },
+    {
+      "url": "https://www.worldbank.org/en/news/press-release/2023/10/05/afw-world-bank-the-importance-of-groundwater-on-climate-resilience-in-the-sahel",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 3
+    },
+    {
+      "url": "https://www.nature.com/articles/s41893-024-01319-5",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://www.pseau.org/outils/ouvrages/lari_the_role_of_groundwater_depletion_in_local_and_global_climate_change_2025.pdf",
+      "relevance": 4,
+      "credibility": 4,
+      "freshness": 5
+    },
+    {
+      "url": "https://www.nature.com/articles/s41893-024-01319-5.pdf",
+      "relevance": 5,
+      "credibility": 5,
+      "freshness": 4
+    },
+    {
+      "url": "https://blogs.worldbank.org/en/water/improving-groundwater-development-sahel-region",
+      "relevance": 4,
+      "credibility": 5,
+      "freshness": 3
+    }
+  ],
+  "response": [
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response comprehensively addresses climate change impacts on water availability in the Sahel with excellent organization, factual accuracy, and meaningful analysis. It covers temperature increases, rainfall patterns, groundwater depletion, flooding, and socioeconomic consequences with appropriate detail and clear structure.",
+      "model": "claude-3.7"
+    },
+    {
+      "Relevance": 5,
+      "Correctness": 5,
+      "Completeness": 5,
+      "Clarity": 5,
+      "Depth": 5,
+      "Comment": "The response directly answers the question, provides detailed and accurate information on all key aspects, explains mechanisms, implications, and efforts in adaptation, and is well-organized and clear throughout.",
+      "model": "GPT4.1"
+    }
+  ]
+}
