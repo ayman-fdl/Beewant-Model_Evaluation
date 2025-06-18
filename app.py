@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Titre de l'application
-st.title("Rapport d'Évaluation Qwen 3")
+st.title("Rapport d'Évaluation Qwen 3 - Search Web")
 st.markdown("""
 Cette application présente une analyse détaillée des performances de Qwen 3 dans différents domaines thématiques.
 Les évaluations sont basées sur des critères précis pour les sources et les réponses.
@@ -245,12 +245,6 @@ with col2:
         showlegend=True
     )
     st.plotly_chart(response_fig, use_container_width=True)
-
-# Affichage des commentaires
-st.subheader("Commentaires")
-for model in thematic_data['model'].unique():
-    model_data = thematic_data[thematic_data['model'] == model]
-    st.markdown(f"**{model}**: {model_data['comment'].iloc[0]}")
 
 # Section 3: Données Brutes
 st.header("Données Brutes")

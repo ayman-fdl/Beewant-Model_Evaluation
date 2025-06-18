@@ -1,0 +1,7 @@
+Get Question-Answer:
+Extract exactly 10 factual and precise question–answer pairs from this PDF. Each question must be directly and verifiably answerable from the content. Focus on concrete facts such as names, numbers, dates, definitions, roles, percentages, metrics, or locations. Avoid open-ended or speculative questions. Return the output in JSON format as a list of objects with 'question' and 'answer' fields only.
+
+
+
+Get Answers:
+Answer the following questions strictly based on the content of the PDF. Do not use any external knowledge. For each question, return a concise and direct answer. If a question cannot be answered from the document, reply with 'Not found in the document.' Return the answers in a JSON list of objects, each containing 'question' and 'answer' fields.

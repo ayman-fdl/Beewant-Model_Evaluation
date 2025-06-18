@@ -1,0 +1,44 @@
+{
+    "eval_pdf": [
+        {
+            "question": "On what date will NVIDIA's 2025 Annual Meeting of Stockholders be held?",
+            "answer": "June 25, 2025"
+        },
+        {
+            "question": "What is the record date for determining stockholders entitled to vote at the 2025 Annual Meeting?",
+            "answer": "April 28, 2025"
+        },
+        {
+            "question": "How many shares of NVIDIA common stock were outstanding and entitled to vote as of April 28, 2025?",
+            "answer": "24,387,557,065 shares"
+        },
+        {
+            "question": "What is the quorum requirement for the 2025 Annual Meeting?",
+            "answer": "A majority of the outstanding shares entitled to vote, or 12,193,778,533 shares, must be represented."
+        },
+        {
+            "question": "What was the total compensation for Fiscal 2025 of Jen-Hsun Huang's daughter?",
+            "answer": "Approximately $1,130,000"
+        },
+        {
+            "question": "What was the total compensation for Fiscal 2025 of Jen-Hsun Huang's son?",
+            "answer": "Approximately $530,000"
+        },
+        {
+            "question": "What was the total compensation for Fiscal 2025 of Dr. Shah's son?",
+            "answer": "Approximately $475,000"
+        },
+        {
+            "question": "What is the address of NVIDIA Corporation's headquarters?",
+            "answer": "2788 San Tomas Expressway, Santa Clara, California 95051"
+        },
+        {
+            "question": "Who is NVIDIA's President and CEO as of Fiscal 2025?",
+            "answer": "Jen-Hsun Huang"
+        },
+        {
+            "question": "What is the base salary for Jen-Hsun Huang in Fiscal 2025?",
+            "answer": "$1,500,000"
+        }
+    ]
+}
