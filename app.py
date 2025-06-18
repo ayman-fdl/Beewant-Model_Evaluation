@@ -120,28 +120,32 @@ with col1:
 
 with col2:
     st.subheader("Évaluation des Réponses")
-    # Calcul des moyennes globales pour les réponses
-    response_metrics = {
-        "Pertinence": df["relevance"].mean(),
-        "Exactitude": df["correctness"].mean(),
-        "Exhaustivité": df["completeness"].mean(),
-        "Clarté": df["clarity"].mean(),
-        "Profondeur": df["depth"].mean()
-    }
-    
-    # Création du graphique pour les réponses
+    # Création du graphique pour les réponses par modèle
     response_fig = go.Figure()
-    response_fig.add_trace(go.Bar(
-        x=list(response_metrics.keys()),
-        y=list(response_metrics.values()),
-        text=[f"{val:.2f}" for val in response_metrics.values()],
-        textposition='auto',
-    ))
+    
+    for model in df['model'].unique():
+        model_data = df[df['model'] == model]
+        response_metrics = {
+            "Pertinence": model_data["relevance"].mean(),
+            "Exactitude": model_data["correctness"].mean(),
+            "Exhaustivité": model_data["completeness"].mean(),
+            "Clarté": model_data["clarity"].mean(),
+            "Profondeur": model_data["depth"].mean()
+        }
+        
+        response_fig.add_trace(go.Bar(
+            name=model,
+            x=list(response_metrics.keys()),
+            y=list(response_metrics.values()),
+            text=[f"{val:.2f}" for val in response_metrics.values()],
+            textposition='auto',
+        ))
     
     response_fig.update_layout(
-        title="Moyennes Globales des Réponses",
+        title="Moyennes des Réponses par Modèle",
+        barmode='group',
         yaxis=dict(range=[0, 5]),
-        showlegend=False
+        showlegend=True
     )
     st.plotly_chart(response_fig, use_container_width=True)
 
@@ -230,7 +234,7 @@ with col2:
                model_data["completeness"].iloc[0],
                model_data["clarity"].iloc[0],
                model_data["depth"].iloc[0]],
-            text=[f"{val:.2f}" for val in [model_data["relevance"].iloc[0],
+            text=[f"{val:.1f}" for val in [model_data["relevance"].iloc[0],
                                           model_data["correctness"].iloc[0],
                                           model_data["completeness"].iloc[0],
                                           model_data["clarity"].iloc[0],
